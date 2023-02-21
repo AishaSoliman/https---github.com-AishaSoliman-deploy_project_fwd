@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./www s3://myawsbucket22120232009/
+aws s3 cp --recursive --acl public-read ./www s3://lastbucketisa/

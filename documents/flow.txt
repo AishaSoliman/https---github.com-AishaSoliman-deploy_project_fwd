@@ -1,0 +1,8 @@
+Flow of the process from the user side:
+
+- First, The user will use the appliction through the Front-end.
+- Second, To preform any action on the appliction the user will send a request to the server.
+- Third, The api will send a request to the data base based on the request of the user.
+- Forth, The database will response for the api request/
+- Fifth, The server will send a response to the user for his request.
+

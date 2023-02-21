@@ -1,0 +1,10 @@
+Pipeline:
+
+- First, we should create the repository of the project on GitHub.
+- Second, we should link our editor with the project repository.
+- Third, we should start writing our code for the project.
+- Fourth, we should push these changes to the project repository.
+- Fifth, we should link our Circleci account to the project repository.
+- Sixth, we should start deploying our project through Circleci.
+- Seventh, Circleci will make these changes to the AWS services such as RDS, S3BUCKET, and the Elastic Elastic Beanstalk.
+- Finally, the user will get these changes.

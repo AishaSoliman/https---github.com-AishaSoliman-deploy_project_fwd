@@ -1,0 +1,11 @@
+Infrastructure:
+
+- For the Front-end, I used Angular framework.
+- For the Back-end, I used Exprees framework to handel the API
+- For the database, I used postgres database (PSQL).
+- For the cloud services I used Amazon Web Services (AWS)
+
+- AWS services:
+  - For hosting the Front-end I used Amazon S3 service.
+  - For hosting the Back-end I used Amazon Elastic Beanstalk service.
+  - For hosting the database I used Amazon Relational Database service.
